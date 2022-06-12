@@ -106,7 +106,7 @@ function Header(props) {
           <a href="mailto:agrawalpulkit12@gmail.com">
             <i class="fab fa fa-envelope"></i>
           </a>
-          <a href="" target="_blank">
+          <a href="https://drive.google.com/file/d/1xYJUDF4UmFNN1swiKNXFWDH7WZ-yhE3_/view?usp=sharing" target="_blank">
             <i class="fab fa fa-file-pdf"></i>
           </a>
         </div>
