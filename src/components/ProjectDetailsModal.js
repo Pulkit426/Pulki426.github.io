@@ -10,6 +10,7 @@ function ProjectDetailsModal(props) {
     const images = props.data.images;
     var title = props.data.title;
     var description = props.data.description;
+    var details = props.data.details
     var gitUrl = props.data.gitUrl;
     var liveUrl = props.data.liveUrl
     if (props.data.technologies) {
@@ -96,6 +97,7 @@ function ProjectDetailsModal(props) {
 
           </h4>
           <p className="modal-description">{description}</p>
+          <p className="modal-description">{details}</p>
           <div className="col-md-12 text-center">
             <ul className="list-inline mx-auto">{tech}</ul>
           </div>
