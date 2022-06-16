@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "Hi 👋 I'm Pulkit Agrawal.  I am a full stack developer with an experience in building web apps. I like to turn ideas into code and solve real world problems. I have an engineering degree in computer science. I love to work in a fast paced environment. I am keenly interested in finance and startups.I am fluent in Javascript, ReactJs and MERN stack.",
+      "description": "Hi 👋 I'm Pulkit Agrawal. I am a full stack developer with a passion for developing scalable web applications. I am extremely passionate about development. I like to turn ideas into code and solve real-world problems. I have an engineering degree in computer science. I love to work in a fast-paced environment. I am keenly interested in finance and startups. I am fluent in Javascript, ReactJs, and MERN stack.",
       "interests": "Besides that, I spend my time playing cricket and binge watching Netflix. I also like to read books. I always look forward to meet and connect with new people and have a chat over a cup of coffee. You can contact me on LinkedIn, Twitter or Email.",
       "section_name": {
         "about": "About me",
@@ -13,7 +13,9 @@
     "projects": [
       {
         "title": "Terrapost",
-        "description": "A social blogging MERN app",
+        "description": "A social blogging web app built with MERN stack",
+        "details": "You can Create, update, delete, comment and like other people’s posts. Redux is used for managing state and styling is done with MaterialUI. Tests are written in jest and cypres",
+
         "images": [
           "images/portfolio/terrapost/p1.png",
           "images/portfolio/terrapost/p2.png"
@@ -33,7 +35,8 @@
       },
       {
         "title": "Quizzical",
-        "description": "A Quiz app based on ReactJS",
+        "description": "A Quiz WebApp based on ReactJS",
+        "details": "It accesses trivia questions from the Open Trivia Database API and score players based on their answers. Styling is done with pure CSS",
         "images": [
           "images/portfolio/quizzical/p1.png",
           "images/portfolio/quizzical/p2.png"
