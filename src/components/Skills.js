@@ -12,7 +12,7 @@ function Skills(props) {
               <i className={skills.class} style={{ fontSize: "220%" }}>
                 <p
                   className="text-center"
-                  style={{ fontSize: "30%", marginTop: "4px" }}
+                  style={{ fontSize: "40%", marginTop: "4px" }}
                 >
                   {skills.name}
                 </p>
