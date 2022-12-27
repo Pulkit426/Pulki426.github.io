@@ -21,7 +21,7 @@
           "images/portfolio/terrapost/p2.png"
         ],
         "gitUrl": "https://github.com/Pulkit426/Terrapost",
-        "liveUrl": "https://terrapost.herokuapp.com/",
+        "liveUrl": "https://terrapost-api.onrender.com/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -42,7 +42,7 @@
           "images/portfolio/chromachat/p1.png",
           "images/portfolio/chromachat/p2.png"
         ],"gitUrl": "https://github.com/Pulkit426/ChromaChat",
-        "liveUrl": "https://chroma-chat.herokuapp.com/",
+        "liveUrl": "https://chromachat.onrender.com",
         "technologies": [
           {
             "class": "devicon-react-original",
